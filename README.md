@@ -1,4 +1,4 @@
-<h2> hi, i'm will chen! 
+<h2> hi, i'm will chen! </h2>
   
  :notes: [willchen.me](https://willchen.me)
 
