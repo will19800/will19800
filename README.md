@@ -8,14 +8,6 @@ const will = {
   code: ["javascript", "typescript", "python", "java", "html", "css"],
   tools: ["react", "spring boot", "tailwind", "postgresql", "mangodb", "node"],
   school: ["ohio state university"],
-  clubs: {
-    "Competitive Programming Club": {
-      role: "member"
-    },
-    "Artifical Intelligence Club": {
-      role: "member"
-    }
-  }
 }
 
 ```
